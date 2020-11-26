@@ -1,0 +1,22 @@
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+https://www.reddit.com/r/UnearthedArcana/comments/jwlw68/once_more_with_feeling_a_short_lovecraftian/
+
+
+* Cool campaigns?
+  :PROPERTIES:
+  :ID: A1
+  :END:
+  Tales of the yawning portal
+  DDEX2
+** Adv
+*** foo
+    <<note_1>>
+    <<npc_1_hint>>
+*** bar
+    [[note_1][finds note 1]]
+
+    [[npc_1_hint][drops hint]]
+
+    [[https://upload.wikimedia.org/wikipedia/en/d/d9/Curlingrock_small.JPG]]
